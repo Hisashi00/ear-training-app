@@ -1,3 +1,19 @@
+# Next.js
+frontend/.next/
+frontend/.next/cache/
+frontend/.next/static/
+frontend/.next/trace
+
+
 frontend/node_modules/
+frontend/package-lock.json
+frontend/yarn.lock
+
+# Python
 backend/__pycache__/
-backend/.env
+backend/*.pyc
+backend/.venv/
+
+
+.DS_Store
+.env
